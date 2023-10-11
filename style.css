@@ -36,7 +36,6 @@ header {
 main {
     background-color: lightseagreen;
     display: flex;
-    height: 95vh;
     flex-direction: column;
     align-items: center;
 }
